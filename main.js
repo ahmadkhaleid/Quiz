@@ -205,7 +205,7 @@ function showResults(count) {
     if (rightAnswers > count / 2 && rightAnswers < count) {
       theResults = `<span class="good">Good</span>, ${rightAnswers} From ${count}`;
     } else if (rightAnswers === count) {
-      theResults = `<span class="perfect">Perfect</span>, All Answers Is Good`;
+      theResults = `<span class="perfect">Perfect</span>, All Answers Is Correct`;
     } else {
       theResults = `<span class="bad">Bad</span>, ${rightAnswers} From ${count}`;
     }
