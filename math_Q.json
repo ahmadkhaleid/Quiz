@@ -1,0 +1,74 @@
+[
+    {
+        "title" :"5 + 66",
+        "right_answer" : "71",
+        "answer_1": "72",
+        "answer_2" : "71",
+        "answer_3" : "83",
+        "answer_4": "62"
+    },
+    {
+        "title" :"22 + 33",
+        "right_answer" : "55",
+        "answer_1": "45",
+        "answer_2" : "55",
+        "answer_3" : "83",
+        "answer_4": "67"
+    },
+    {
+        "title" :"9 * 5",
+        "right_answer" : "45",
+        "answer_1": "44",
+        "answer_2" : "77",
+        "answer_3" : "83",
+        "answer_4": "45"
+    },
+    {
+        "title" :"99 / 9",
+        "right_answer" : "11",
+        "answer_1": "7",
+        "answer_2" : "12",
+        "answer_3" : "11",
+        "answer_4": "9"
+    },
+    {
+        "title" :"338 + 221",
+        "right_answer" : "559",
+        "answer_1": "727",
+        "answer_2" : "717",
+        "answer_3" : "811",
+        "answer_4": "559"
+    },
+    {
+        "title" :"4 * 14",
+        "right_answer" : "56",
+        "answer_1": "41",
+        "answer_2" : "48",
+        "answer_3" : "56",
+        "answer_4": "62"
+    },
+    {
+        "title" :"100 / 10",
+        "right_answer" : "10",
+        "answer_1": "10",
+        "answer_2" : "9",
+        "answer_3" : "8",
+        "answer_4": "6"
+    },
+    {
+        "title" :"41 + 22",
+        "right_answer" : "63",
+        "answer_1": "87",
+        "answer_2" : "12",
+        "answer_3" : "73",
+        "answer_4": "63"
+    },
+    {
+        "title" :"199 - 88",
+        "right_answer" : "111",
+        "answer_1": "109",
+        "answer_2" : "108",
+        "answer_3" : "111",
+        "answer_4": "107"
+    }
+]

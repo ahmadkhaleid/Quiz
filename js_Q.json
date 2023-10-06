@@ -1,0 +1,83 @@
+[
+    {
+        "title" :"What is JavaScript?",
+        "right_answer" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_1": "JavaScript is an assembly language used to make the website interactive",
+        "answer_2" : "JavaScript is a compiled language used to make the website interactive",
+        "answer_3" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_4": "None of the mentioned"
+    },
+    {
+        "title" :"Which of the following is not javascript data types?",
+        "right_answer" : "All of the mentioned",
+        "answer_1": "Null type",
+        "answer_2" : "Undefined type",
+        "answer_3" : "Number type",
+        "answer_4": "All of the mentioned"
+    },
+    {
+        "title" :"Where is Client-side JavaScript code is embedded within HTML documents?",
+        "right_answer" : " A URL that uses the special javascript:protocol",
+        "answer_1": "A URL that uses the special javascript:code",
+        "answer_2" : " A URL that uses the special javascript:protocol",
+        "answer_3" : "A URL that uses the special javascript:encoding",
+        "answer_4": "A URL that uses the special javascript:stack"
+    },
+    {
+        "title" :"Which of the following object is the main entry point to all client-side JavaScript features and APIs?",
+        "right_answer" : "Window",
+        "answer_1": "Position",
+        "answer_2" : "Window",
+        "answer_3" : "Standard",
+        "answer_4": "Location"
+    },
+    {
+        "title" :"What is JavaScript?",
+        "right_answer" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_1": "JavaScript is an assembly language used to make the website interactive",
+        "answer_2" : "JavaScript is a compiled language used to make the website interactive",
+        "answer_3" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_4": "None of the mentioned"
+    },
+    {
+        "title" :"Which of the following can be used to call a JavaScript Code Snippet?",
+        "right_answer" : "Function/Method",
+        "answer_1": "Function/Method",
+        "answer_2" : "Preprocessor",
+        "answer_3" : "Triggering Event",
+        "answer_4": " RMI"
+    },
+    {
+        "title" :"Which of the following is the property that is triggered in response to JS errors?",
+        "right_answer" : "onerror",
+        "answer_1": "onclick",
+        "answer_2" : "onerror",
+        "answer_3" : "onmessage",
+        "answer_4": "onexception"
+    },
+    {
+        "title" :"Arrays in JavaScript are defined by which of the following statements?",
+        "right_answer" : "It is an ordered list of values",
+        "answer_1": " It is an ordered list of values",
+        "answer_2" : "It is an ordered list of objects",
+        "answer_3" : " It is an ordered list of string",
+        "answer_4": "It is an ordered list of functions"
+    },
+    {
+        "title" :"What is JavaScript?",
+        "right_answer" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_1": "JavaScript is an assembly language used to make the website interactive",
+        "answer_2" : "JavaScript is a compiled language used to make the website interactive",
+        "answer_3" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_4": "None of the mentioned"
+    },
+    {
+        "title" :"What is JavaScript?",
+        "right_answer" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_1": "JavaScript is an assembly language used to make the website interactive",
+        "answer_2" : "JavaScript is a compiled language used to make the website interactive",
+        "answer_3" : "JavaScript is a scripting language used to make the website interactive",
+        "answer_4": "None of the mentioned"
+    }
+  
+]
