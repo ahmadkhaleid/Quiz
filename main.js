@@ -122,7 +122,7 @@ function addQuestionData(obj, count) {
     let answersArray = [obj.answer_1, obj.answer_2, obj.answer_3, obj.answer_4]
     let shuffledAnswers = shuffling(answersArray)
     for (let i = 0; i < 4; i++) {
-      obj[`answer_${i}`] = shuffledAnswers[i]
+      obj[`answer_${i+1}`] = shuffledAnswers[i]
     }
 
     // Create The Answers
